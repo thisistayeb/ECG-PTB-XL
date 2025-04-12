@@ -1,7 +1,7 @@
 # Multi-label ECG Classification on PTB-XL Dataset
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thisisTayeb/ECG-PTB-XL/blob/main/PTBXL-CNN.ipynb.ipynb>)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thisistayeb/ECG-PTB-XL/blob/main/PTBXL_CNN.ipynb)
 
 Evaluating a Deep Learning Model for ECG Classification Across Demographics on PTB-XL
 
